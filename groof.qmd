@@ -1,0 +1,16 @@
+---
+title: "🌱 Groof: Dachbegrünung leicht gemacht"
+format: html
+---
+
+Groof wurde während eines **Hackathons in Darmstadt** entwickelt und hat das Ziel, Informationen über **Dachbegrünungen** möglichst einfach und zugänglich darzustellen. Dachbegrünungen sind nicht nur gut für die **CO₂-Bilanz**, sondern verlängern auch die **Lebensdauer von Dächern**. Zudem soll Groof helfen, die Auswirkungen von Dachbegrünungen auf **Temperatur, Luftfeuchtigkeit und Luftqualität** zu messen und die Daten für **Forschung & Stadtentwicklung** bereitzustellen.  
+
+## 🔍 Forschungsfragen  
+- Wie beeinflussen Dachbegrünungen die **Luftqualität** in Städten?  
+- Erhöht ein zugängliches Tool die **Akzeptanz und Umsetzung** von Dachbegrünungen?  
+- Unterstützt die Plattform Menschen **bei der Entscheidungsfindung** für eine Begrünung?  
+
+## 🏗 Anwendung & Zukunft  
+- **Förderung von grüner Stadtentwicklung & Smart Cities**  
+- **Wissenschaftliche Analyse der ökologischen Effekte von Dachbegrünungen**  
+- **Proof-of-Concept erfolgreich vorgestellt**

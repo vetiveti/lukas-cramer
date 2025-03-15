@@ -1,0 +1,46 @@
+---
+title: "Lukas Cramer"
+format: 
+  html: 
+    style: |
+      css: styles.scss
+subtitle: "Projektmanagment | Data Scientist"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: Lukas-Cramer.png
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/vetiveti
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+---
+## Hi! Ich bin Lukas Cramer.
+::: text-center
+Zahlen, Daten, Fakten – das ist meine Welt. Ich analysiere vielfältige Datensätze, erstelle interaktive Dashboards und visualisiere komplexe Zusammenhänge klar und verständlich. Mein Fokus liegt auf politischen und ökonomischen Daten – von Import-/Exportstatistiken über Wahlanalysen bis hin zu Digitalisierung und Sportstatistik. Dabei nutze ich Tools wie R, Python, Stata und SPSS, um präzise und fundierte Analysen zu erstellen.
+:::
+
+## Ausbildung:
+::: text-left
+**10/2018 – 10/2021** \| M.Sc. Economics & Finance, Universität Tübingen
+
+**08/2019 – 12/2019** \| University of Vaasa, Finnland
+
+**10/2014 – 09/2017** \| B.Sc. Wirtschaftswissenschaften, Universität Konstanz
+
+**08/2016 – 01/2017** \| Corvinus University Budapest, Ungarn
+:::
+## Berufserfahrung (Auszug):
+::: text-left
+**09/2024 – heute**\| BÜNDNIS 90/DIE GRÜNEN Altona, Wahlkampfmanagement
+
+**04/2022 – 02/25**\| Science Slam, (Junior-) Projektmanager
+
+**01/2022 – 10/24**\| Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg \| Wissenschaftlicher Mitarbeiter im  Kompetenzzentrum für Digitale Transformation
+
+**07/2019 – 12/2021** \| Hochschule für öffentliche Verwaltung und Finanzen, Ludwigsburg \| Wissenschaftliche Hilfskraft
+
+**10/2017 – 01/2018** \| Emu PR & Events GmbH, Assistent in der strategischen Beratung
+:::

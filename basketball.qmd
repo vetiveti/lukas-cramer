@@ -1,0 +1,34 @@
+---
+title: "Basketball-Analyse"
+format:
+  html: default
+---
+
+# 🏀 Wer ist der GOAT ?
+
+## Empirical Analysis of Basketball Player Performance Measures
+
+Basketballdaten können zur Bewertung von Teams und Spielern herangezogen werden. In meiner Masterarbeit habe ich verschiedene Metriken analysiert, um eine objektive Leistungsbewertung zu ermöglichen. Dazu habe ich die Vor- und Nachteile der einzelnen Metriken miteinander verglichen und bewertet, ob diese belastbare Ergebnisse liefern.
+
+## 🔍 Methoden
+
+Verwendete statistische Metriken:\
+- **BBL-Efficiency** – Wert eines Spielers anhand des Box-Scores\
+- **Wins Produced** – Aggregierte Leistungsbewertung nach Berri\
+- **WS (Win Shares)** – Verteilt Siege basierend auf Spielerleistung\
+- **BPM (Box Plus-Minus)** – Schätzt den Beitrag eines Spielers pro 100 Ballbesitze\
+- **VORP (Value Over Replacement Player)** – Wert eines Spielers gegenüber einem Bankspieler\
+- **PER (Player Efficiency Rating)** – Aggregierte Leistungsbewertung
+
+## 📊 Tools
+
+Für die Analyse kamen folgende Technologien zum Einsatz:\
+- **R & Python** für Datenanalyse & Visualisierung\
+- **ggplot2 & Matplotlib** für Diagramme\
+- **Web-Scraping & APIs**, um aktuelle Basketball-Daten zu beziehen
+
+## 🏆 Ergebnisse
+
+Die Analyse zeigt, dass die WS-Methode die genaueste Metrik zur Bewertung von BBL-Spielern ist, gefolgt von Box Plus/Minus und Wins Produced. Die aktuell verwendete BBL-Efficiency-Metrik schneidet im Vergleich deutlich schlechter ab. Obwohl die zentralen Tendenzen der drei untersuchten Metriken ähnlich sind, ergeben sich teils unterschiedliche individuelle Spielerbewertungen. Die Methoden können zuverlässig zwischen Spielern differenzieren, hängen aber stark von der Spielzeit ab. Allerdings berücksichtigen Win Shares, Box Plus/Minus und Wins Produced neben den Minuten auf dem Feld zusätzliche Faktoren, die eine präzisere Einschätzung der Spielerleistung ermöglichen. Insgesamt zeigt die Studie, dass sich diese Metriken aus der NBA sinnvoll auf die BBL übertragen lassen.
+
+📂 **Code & Daten:** [GitHub Repository](https://github.com/vetiveti/europeanBasketball)

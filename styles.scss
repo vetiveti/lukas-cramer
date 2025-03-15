@@ -1,0 +1,50 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+/* Colors */
+$body-bg: #FFFFFF;
+$body-color: rgb(55, 58, 60);
+$link-color: rgb(39, 128, 227);
+
+/* Fonts */
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+
+span.navbar-title {
+  color: darken(green, 10%);
+  transition-behavior: 0.5s;
+  
+  &:hover {
+    color: green;
+  transition-behavior: 0.5s;
+  }
+}
+
+.text-left {
+  text-align: left !important;
+  padding-left: 20px; /* Abstand nach innen */
+  margin-left: 20px;  /* Alternativ: Abstand nach außen */
+}
+
+.text-center {
+  padding-left: 15px; /* Abstand nach innen */
+  margin-left: 5px;  /* Alternativ: Abstand nach außen */
+}
+
+.project-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+  background: #f9f9f9;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+.project-card a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #0073e6;
+}

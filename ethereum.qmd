@@ -1,0 +1,18 @@
+---
+title: "Ethereum & Smart Contracts"
+format: html
+---
+
+# Ethereum & Smart Contracts  
+
+Ethereum ist die führende Plattform für Smart Contracts und dezentrale Anwendungen (DApps). In diesem Projekt analysiere ich die **Skalierungsprobleme von Ethereum**, den Wechsel zu **Proof-of-Stake (PoS)** und die ökonomischen sowie regulatorischen Herausforderungen.  
+
+## 🚀 Skalierungsprobleme & Lösungen  
+Ethereum kämpft mit **hohen Transaktionskosten und begrenzter Skalierbarkeit**. Mögliche Lösungen sind:  
+- **Sharding** (Aufteilung des Netzwerks in kleinere Teile für parallele Verarbeitung)  
+- **Ethereum 2.0 & Proof-of-Stake (PoS)** (Reduzierung des Energieverbrauchs und Erhöhung der Effizienz)  
+
+## 🏛 Regulatorische Herausforderungen  
+- **Dezentralisierung vs. Regulierung**: Sind Smart Contracts wirklich "unstoppbar"?  
+- **MiCA-Verordnung der EU**: Wie beeinflusst sie Ethereum-basierte Projekte?  
+- **Steuerliche Behandlung von Staking Rewards**  

@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made with ❤️ and Quarto"
+  navbar:
+    title: Lukas Cramer
+    right:
+      - text: Home
+        href: index.qmd
+      - text: "Projekte"
+        href: projekte.qmd
+      # text: Was angezeigt wird
+      # icon: megaphone
+    tools:
+      - icon: github
+        href: github.com
+      - icon: instagram
+        href: instagram.com
+      
+format:
+  html:
+#    backgroundcolor: "#eaffe3"
+#    fontcolor: "darkgreen"
+#    linkcolor: "black"
+#    mainfont: "sarif"
+#    fontsize: 20px
+    theme: [cosmo, styles.scss]
+    style: "text-align: left;"
+
+execute:
+  freeze: false

@@ -1,0 +1,35 @@
+---
+title: "Projekte"
+format: html
+---
+
+## 🏀 Basketball-Analyse  
+<div class="project-card">
+<p><strong>Wer ist der GOAT? Eine empirische Analyse von Basketball-Metriken</strong></p>
+<ul>
+<li>Methoden: BBL-Eff, BPM, Win Shares, Wins Produced, VORP, PER</li>
+<li>Tools: R, Python</li>
+</ul>
+<a href="basketball.qmd">➡️ Mehr erfahren</a>
+</div>
+
+## 🔗 Ethereum & Smart Contracts  
+<div class="project-card">
+<p><strong>Analyse der Skalierungsprobleme & PoS-Lösungen</strong></p>
+<ul>
+<li>Regulierungsfragen & ökonomische Analyse</li>
+<li>Smart Contract Entwicklung</li>
+</ul>
+<a href="ethereum.qmd">➡️ Mehr erfahren</a>
+</div>
+
+## 🌱 Groof: Dachbegrünung leicht gemacht  
+<div class="project-card">
+<p><strong>Informations- und Analysetool für nachhaltige Dächer</strong></p>
+<ul>
+<li>Verbesserung der CO₂-Bilanz & Dachlebensdauer</li>
+<li>Messung von Temperatur, Luftfeuchtigkeit & Luftqualität</li>
+<li>Erleichterung der Entscheidungsfindung für Dachbegrünungen</li>
+</ul>
+<a href="groof.qmd">➡️ Mehr erfahren</a>
+</div>

@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "projekte.html",
+    "href": "projekte.html",
+    "title": "Projekte",
+    "section": "",
+    "text": "Wer ist der GOAT? Eine empirische Analyse von Basketball-Metriken\n\n\n\nMethoden: BBL-Eff, BPM, Win Shares, Wins Produced, VORP, PER\n\n\nTools: R, Python\n\n\n➡️ Mehr erfahren"
+  },
+  {
+    "objectID": "projekte.html#basketball-analyse",
+    "href": "projekte.html#basketball-analyse",
+    "title": "Projekte",
+    "section": "",
+    "text": "Wer ist der GOAT? Eine empirische Analyse von Basketball-Metriken\n\n\n\nMethoden: BBL-Eff, BPM, Win Shares, Wins Produced, VORP, PER\n\n\nTools: R, Python\n\n\n➡️ Mehr erfahren"
+  },
+  {
+    "objectID": "projekte.html#ethereum-smart-contracts",
+    "href": "projekte.html#ethereum-smart-contracts",
+    "title": "Projekte",
+    "section": "🔗 Ethereum & Smart Contracts",
+    "text": "🔗 Ethereum & Smart Contracts\n\n\nAnalyse der Skalierungsprobleme & PoS-Lösungen\n\n\n\nRegulierungsfragen & ökonomische Analyse\n\n\nSmart Contract Entwicklung\n\n\n➡️ Mehr erfahren"
+  },
+  {
+    "objectID": "projekte.html#groof-dachbegrünung-leicht-gemacht",
+    "href": "projekte.html#groof-dachbegrünung-leicht-gemacht",
+    "title": "Projekte",
+    "section": "🌱 Groof: Dachbegrünung leicht gemacht",
+    "text": "🌱 Groof: Dachbegrünung leicht gemacht\n\n\nInformations- und Analysetool für nachhaltige Dächer\n\n\n\nVerbesserung der CO₂-Bilanz & Dachlebensdauer\n\n\nMessung von Temperatur, Luftfeuchtigkeit & Luftqualität\n\n\nErleichterung der Entscheidungsfindung für Dachbegrünungen\n\n\n➡️ Mehr erfahren"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lukas Cramer",
+    "section": "",
+    "text": "Zahlen, Daten, Fakten – das ist meine Welt. Ich analysiere vielfältige Datensätze, erstelle interaktive Dashboards und visualisiere komplexe Zusammenhänge klar und verständlich. Mein Fokus liegt auf politischen und ökonomischen Daten – von Import-/Exportstatistiken über Wahlanalysen bis hin zu Digitalisierung und Sportstatistik. Dabei nutze ich Tools wie R, Python, Stata und SPSS, um präzise und fundierte Analysen zu erstellen."
+  },
+  {
+    "objectID": "index.html#hi-ich-bin-lukas-cramer.",
+    "href": "index.html#hi-ich-bin-lukas-cramer.",
+    "title": "Lukas Cramer",
+    "section": "",
+    "text": "Zahlen, Daten, Fakten – das ist meine Welt. Ich analysiere vielfältige Datensätze, erstelle interaktive Dashboards und visualisiere komplexe Zusammenhänge klar und verständlich. Mein Fokus liegt auf politischen und ökonomischen Daten – von Import-/Exportstatistiken über Wahlanalysen bis hin zu Digitalisierung und Sportstatistik. Dabei nutze ich Tools wie R, Python, Stata und SPSS, um präzise und fundierte Analysen zu erstellen."
+  },
+  {
+    "objectID": "index.html#ausbildung",
+    "href": "index.html#ausbildung",
+    "title": "Lukas Cramer",
+    "section": "Ausbildung:",
+    "text": "Ausbildung:\n\n10/2018 – 10/2021 | M.Sc. Economics & Finance, Universität Tübingen\n08/2019 – 12/2019 | University of Vaasa, Finnland\n10/2014 – 09/2017 | B.Sc. Wirtschaftswissenschaften, Universität Konstanz\n08/2016 – 01/2017 | Corvinus University Budapest, Ungarn"
+  },
+  {
+    "objectID": "index.html#berufserfahrung-auszug",
+    "href": "index.html#berufserfahrung-auszug",
+    "title": "Lukas Cramer",
+    "section": "Berufserfahrung (Auszug):",
+    "text": "Berufserfahrung (Auszug):\n\n09/2024 – heute| BÜNDNIS 90/DIE GRÜNEN Altona, Wahlkampfmanagement\n04/2022 – 02/25| Science Slam, (Junior-) Projektmanager\n01/2022 – 10/24| Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg | Wissenschaftlicher Mitarbeiter im Kompetenzzentrum für Digitale Transformation\n07/2019 – 12/2021 | Hochschule für öffentliche Verwaltung und Finanzen, Ludwigsburg | Wissenschaftliche Hilfskraft\n10/2017 – 01/2018 | Emu PR & Events GmbH, Assistent in der strategischen Beratung"
+  },
+  {
+    "objectID": "hello.html",
+    "href": "hello.html",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "hello.html#meet-quarto",
+    "href": "hello.html#meet-quarto",
+    "title": "Hello, Quarto",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "hello.html#meet-the-penguins",
+    "href": "hello.html#meet-the-penguins",
+    "title": "Hello, Quarto",
+    "section": "Meet the penguins",
+    "text": "Meet the penguins\n\nThe penguins data from the palmerpenguins package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\nThe plot below shows the relationship between flipper and bill lengths of these penguins."
+  },
+  {
+    "objectID": "ethereum.html",
+    "href": "ethereum.html",
+    "title": "Ethereum & Smart Contracts",
+    "section": "",
+    "text": "Ethereum ist die führende Plattform für Smart Contracts und dezentrale Anwendungen (DApps). In diesem Projekt analysiere ich die Skalierungsprobleme von Ethereum, den Wechsel zu Proof-of-Stake (PoS) und die ökonomischen sowie regulatorischen Herausforderungen.\n\n\nEthereum kämpft mit hohen Transaktionskosten und begrenzter Skalierbarkeit. Mögliche Lösungen sind:\n- Sharding (Aufteilung des Netzwerks in kleinere Teile für parallele Verarbeitung)\n- Ethereum 2.0 & Proof-of-Stake (PoS) (Reduzierung des Energieverbrauchs und Erhöhung der Effizienz)\n\n\n\n\nDezentralisierung vs. Regulierung: Sind Smart Contracts wirklich “unstoppbar”?\n\nMiCA-Verordnung der EU: Wie beeinflusst sie Ethereum-basierte Projekte?\n\nSteuerliche Behandlung von Staking Rewards"
+  },
+  {
+    "objectID": "ethereum.html#skalierungsprobleme-lösungen",
+    "href": "ethereum.html#skalierungsprobleme-lösungen",
+    "title": "Ethereum & Smart Contracts",
+    "section": "",
+    "text": "Ethereum kämpft mit hohen Transaktionskosten und begrenzter Skalierbarkeit. Mögliche Lösungen sind:\n- Sharding (Aufteilung des Netzwerks in kleinere Teile für parallele Verarbeitung)\n- Ethereum 2.0 & Proof-of-Stake (PoS) (Reduzierung des Energieverbrauchs und Erhöhung der Effizienz)"
+  },
+  {
+    "objectID": "ethereum.html#regulatorische-herausforderungen",
+    "href": "ethereum.html#regulatorische-herausforderungen",
+    "title": "Ethereum & Smart Contracts",
+    "section": "",
+    "text": "Dezentralisierung vs. Regulierung: Sind Smart Contracts wirklich “unstoppbar”?\n\nMiCA-Verordnung der EU: Wie beeinflusst sie Ethereum-basierte Projekte?\n\nSteuerliche Behandlung von Staking Rewards"
+  },
+  {
+    "objectID": "blog/second-post/index.html",
+    "href": "blog/second-post/index.html",
+    "title": "Second Post",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
+  },
+  {
+    "objectID": "basketball.html",
+    "href": "basketball.html",
+    "title": "Basketball-Analyse",
+    "section": "",
+    "text": "Basketballdaten können zur Bewertung von Teams und Spielern herangezogen werden. In meiner Masterarbeit habe ich verschiedene Metriken analysiert, um eine objektive Leistungsbewertung zu ermöglichen. Dazu habe ich die Vor- und Nachteile der einzelnen Metriken miteinander verglichen und bewertet, ob diese belastbare Ergebnisse liefern.\n\n\n\nVerwendete statistische Metriken:\n- BBL-Efficiency – Wert eines Spielers anhand des Box-Scores\n- Wins Produced – Aggregierte Leistungsbewertung nach Berri\n- WS (Win Shares) – Verteilt Siege basierend auf Spielerleistung\n- BPM (Box Plus-Minus) – Schätzt den Beitrag eines Spielers pro 100 Ballbesitze\n- VORP (Value Over Replacement Player) – Wert eines Spielers gegenüber einem Bankspieler\n- PER (Player Efficiency Rating) – Aggregierte Leistungsbewertung\n\n\n\nFür die Analyse kamen folgende Technologien zum Einsatz:\n- R & Python für Datenanalyse & Visualisierung\n- ggplot2 & Matplotlib für Diagramme\n- Web-Scraping & APIs, um aktuelle Basketball-Daten zu beziehen\n\n\n\nDie Analyse zeigt, dass die WS-Methode die genaueste Metrik zur Bewertung von BBL-Spielern ist, gefolgt von Box Plus/Minus und Wins Produced. Die aktuell verwendete BBL-Efficiency-Metrik schneidet im Vergleich deutlich schlechter ab. Obwohl die zentralen Tendenzen der drei untersuchten Metriken ähnlich sind, ergeben sich teils unterschiedliche individuelle Spielerbewertungen. Die Methoden können zuverlässig zwischen Spielern differenzieren, hängen aber stark von der Spielzeit ab. Allerdings berücksichtigen Win Shares, Box Plus/Minus und Wins Produced neben den Minuten auf dem Feld zusätzliche Faktoren, die eine präzisere Einschätzung der Spielerleistung ermöglichen. Insgesamt zeigt die Studie, dass sich diese Metriken aus der NBA sinnvoll auf die BBL übertragen lassen.\n📂 Code & Daten: GitHub Repository"
+  },
+  {
+    "objectID": "basketball.html#empirical-analysis-of-basketball-player-performance-measures",
+    "href": "basketball.html#empirical-analysis-of-basketball-player-performance-measures",
+    "title": "Basketball-Analyse",
+    "section": "",
+    "text": "Basketballdaten können zur Bewertung von Teams und Spielern herangezogen werden. In meiner Masterarbeit habe ich verschiedene Metriken analysiert, um eine objektive Leistungsbewertung zu ermöglichen. Dazu habe ich die Vor- und Nachteile der einzelnen Metriken miteinander verglichen und bewertet, ob diese belastbare Ergebnisse liefern."
+  },
+  {
+    "objectID": "basketball.html#methoden",
+    "href": "basketball.html#methoden",
+    "title": "Basketball-Analyse",
+    "section": "",
+    "text": "Verwendete statistische Metriken:\n- BBL-Efficiency – Wert eines Spielers anhand des Box-Scores\n- Wins Produced – Aggregierte Leistungsbewertung nach Berri\n- WS (Win Shares) – Verteilt Siege basierend auf Spielerleistung\n- BPM (Box Plus-Minus) – Schätzt den Beitrag eines Spielers pro 100 Ballbesitze\n- VORP (Value Over Replacement Player) – Wert eines Spielers gegenüber einem Bankspieler\n- PER (Player Efficiency Rating) – Aggregierte Leistungsbewertung"
+  },
+  {
+    "objectID": "basketball.html#tools",
+    "href": "basketball.html#tools",
+    "title": "Basketball-Analyse",
+    "section": "",
+    "text": "Für die Analyse kamen folgende Technologien zum Einsatz:\n- R & Python für Datenanalyse & Visualisierung\n- ggplot2 & Matplotlib für Diagramme\n- Web-Scraping & APIs, um aktuelle Basketball-Daten zu beziehen"
+  },
+  {
+    "objectID": "basketball.html#ergebnisse",
+    "href": "basketball.html#ergebnisse",
+    "title": "Basketball-Analyse",
+    "section": "",
+    "text": "Die Analyse zeigt, dass die WS-Methode die genaueste Metrik zur Bewertung von BBL-Spielern ist, gefolgt von Box Plus/Minus und Wins Produced. Die aktuell verwendete BBL-Efficiency-Metrik schneidet im Vergleich deutlich schlechter ab. Obwohl die zentralen Tendenzen der drei untersuchten Metriken ähnlich sind, ergeben sich teils unterschiedliche individuelle Spielerbewertungen. Die Methoden können zuverlässig zwischen Spielern differenzieren, hängen aber stark von der Spielzeit ab. Allerdings berücksichtigen Win Shares, Box Plus/Minus und Wins Produced neben den Minuten auf dem Feld zusätzliche Faktoren, die eine präzisere Einschätzung der Spielerleistung ermöglichen. Insgesamt zeigt die Studie, dass sich diese Metriken aus der NBA sinnvoll auf die BBL übertragen lassen.\n📂 Code & Daten: GitHub Repository"
+  },
+  {
+    "objectID": "blog/first-post/index.html",
+    "href": "blog/first-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
+  },
+  {
+    "objectID": "blog/third-post/index.html",
+    "href": "blog/third-post/index.html",
+    "title": "Third Blog Post",
+    "section": "",
+    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
+  },
+  {
+    "objectID": "groof.html",
+    "href": "groof.html",
+    "title": "🌱 Groof: Dachbegrünung leicht gemacht",
+    "section": "",
+    "text": "Groof wurde während eines Hackathons in Darmstadt entwickelt und hat das Ziel, Informationen über Dachbegrünungen möglichst einfach und zugänglich darzustellen. Dachbegrünungen sind nicht nur gut für die CO₂-Bilanz, sondern verlängern auch die Lebensdauer von Dächern. Zudem soll Groof helfen, die Auswirkungen von Dachbegrünungen auf Temperatur, Luftfeuchtigkeit und Luftqualität zu messen und die Daten für Forschung & Stadtentwicklung bereitzustellen."
+  },
+  {
+    "objectID": "groof.html#forschungsfragen",
+    "href": "groof.html#forschungsfragen",
+    "title": "🌱 Groof: Dachbegrünung leicht gemacht",
+    "section": "🔍 Forschungsfragen",
+    "text": "🔍 Forschungsfragen\n\nWie beeinflussen Dachbegrünungen die Luftqualität in Städten?\n\nErhöht ein zugängliches Tool die Akzeptanz und Umsetzung von Dachbegrünungen?\n\nUnterstützt die Plattform Menschen bei der Entscheidungsfindung für eine Begrünung?"
+  },
+  {
+    "objectID": "groof.html#anwendung-zukunft",
+    "href": "groof.html#anwendung-zukunft",
+    "title": "🌱 Groof: Dachbegrünung leicht gemacht",
+    "section": "🏗 Anwendung & Zukunft",
+    "text": "🏗 Anwendung & Zukunft\n\nFörderung von grüner Stadtentwicklung & Smart Cities\n\nWissenschaftliche Analyse der ökologischen Effekte von Dachbegrünungen\n\nProof-of-Concept erfolgreich vorgestellt"
+  },
+  {
+    "objectID": "Homepage.html",
+    "href": "Homepage.html",
+    "title": "Homepage",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Homepage.html#quarto",
+    "href": "Homepage.html#quarto",
+    "title": "Homepage",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\n\nMachine Learning\n\n\nClustering\n\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\n\nData Visualization\n\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
