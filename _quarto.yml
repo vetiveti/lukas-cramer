@@ -17,9 +17,9 @@ website:
       # icon: megaphone
     tools:
       - icon: github
-        href: github.com
+        href: https://github.com/vetiveti
       - icon: instagram
-        href: instagram.com
+        href: https://www.instagram.com/cramer.lukas/
       
 format:
   html:
